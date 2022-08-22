@@ -1,6 +1,6 @@
 module github.com/husirabc/pinpoint-go-agent
 
-go 1.7
+go 1.16
 
 require (
 	git.apache.org/thrift.git v0.13.0
