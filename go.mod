@@ -1,4 +1,4 @@
-module github.com/dingyalin/pinpoint-go-agent
+module github.com/husirabc/pinpoint-go-agent
 
 go 1.7
 
